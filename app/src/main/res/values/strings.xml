@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EasyLearn</string>
+    <string name="facebook_app_id">951951822008145</string>
+    <string name="fb_login_protocol_scheme">fb951951822008145</string>
+
+</resources>
